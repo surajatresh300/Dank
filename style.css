@@ -1,0 +1,35 @@
+*{
+   background-color:#43bccd;
+}
+
+
+#btn{
+   height: 40px;
+   width: 100px;
+   margin-top: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 50%;
+   background-color: #ea3546;
+}
+
+#text{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:x-large;
+   display: flex;
+   margin-top: 100px;
+   background-color:#f86624;
+   justify-content: center;
+   align-items: center;
+}
+
+#text2{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:x-large;
+   display: flex;
+   background-color:#ea3546;
+   justify-content: center;
+   align-items: center;
+}
+
